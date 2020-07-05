@@ -1,0 +1,13 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="sklecture12">
+        <option name="apiUrl" value="https://api.paas-ta.co.kr" />
+        <option name="domain" value="" />
+        <option name="organization" value="SeokyeongUniv" />
+        <option name="space" value="sklecture12" />
+        <option name="trustSelfSignedCert" value="true" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
