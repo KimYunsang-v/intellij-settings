@@ -6,6 +6,7 @@
       <removed_mapping ext="json" type="JSON" />
       <mapping pattern="officeName" type="PLAIN_TEXT" />
       <mapping ext="json" type="PLAIN_TEXT" />
+      <mapping pattern="news-click-consumer-deploy" type="YAML" />
     </extensionMap>
   </component>
 </application>
