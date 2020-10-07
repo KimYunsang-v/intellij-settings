@@ -1,5 +1,33 @@
 <application>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ParkChunSo/realestate_server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ParkChunSo/olive-bakery" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ParkChunSo/olive-bakery-homepage" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="qwdbstkd@naver.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://oss.navercorp.com" />
+          <option name="userName" value="yunsang.kim@navercorp.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://oss.navercorp.com/media-platform/internship-yunsang.kim" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$APPLICATION_HOME_DIR$/bin/C:\Users\Kimyunsang\Desktop\spring" />
   </component>
 </application>
