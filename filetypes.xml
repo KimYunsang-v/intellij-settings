@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="vaccineType" type="JavaScript" />
+      <mapping pattern="vaccineTypeColumn" type="JavaScript" />
       <removed_mapping pattern="dataMapper.js" approved="true" type="spring.factories" />
       <removed_mapping pattern="dataDistance.js" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
